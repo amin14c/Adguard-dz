@@ -1,0 +1,5 @@
+{
+  "name": "AdGuard Permissions DZ",
+  "description": "Android app to detect and manage ad permissions in installed apps.",
+  "requestFramePermissions": []
+}
